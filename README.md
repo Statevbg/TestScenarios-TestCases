@@ -3,4 +3,4 @@
 ## Writing[Test Scenario](https://docs.google.com/spreadsheets/d/1tmotyjQKjUht2hcYlsMlJ2k0X3pvhwI-aWiLBWHYUss/edit?usp=sharing) for each user case.
 ## Writing[Test Cases](https://docs.google.com/spreadsheets/d/1oIPhfPigcX1EpB3fH-ENCvlTVTrAghxfkPgqTzDG0PA/edit?usp=sharing) as many as possible both possitive and negative scenarios.
 
-This repo will be updated periodicaly
+This repo will be updated periodically
